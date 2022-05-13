@@ -1,0 +1,16 @@
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\bin\Debug\WindowsFormsApp72.exe
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\bin\Debug\WindowsFormsApp72.pdb
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.csproj.AssemblyReference.cache
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.Form1.resources
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.OgrenciGiris.resources
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.Properties.Resources.resources
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.csproj.GenerateResource.cache
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.csproj.CoreCompileInputs.cache
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.exe
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.pdb
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.SınavSorumlusu.resources
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.Admin.resources
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.SoruHazırlama.resources
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.Kayıt.resources
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.SınavSoruları.resources
+C:\Users\90534\source\repos\WindowsFormsApp72\WindowsFormsApp72\obj\Debug\WindowsFormsApp72.Sifremiunuttum.resources
